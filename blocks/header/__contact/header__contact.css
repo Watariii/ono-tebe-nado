@@ -1,0 +1,7 @@
+.header__contact {
+    max-width: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}

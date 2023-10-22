@@ -1,0 +1,9 @@
+.header__links-list-item {
+  width: auto;
+  border-bottom: 1px solid black;
+  list-style-type: circle;
+}
+
+.header__links-list-item:first-child {
+  list-style: none;
+}

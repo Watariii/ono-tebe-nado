@@ -1,0 +1,5 @@
+.cover__title-aligned-right {
+    align-self: flex-end;
+    letter-spacing: 24px;
+    margin-right: -18px;
+}

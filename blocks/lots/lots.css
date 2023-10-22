@@ -1,0 +1,7 @@
+.lots {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 93.055555%;
+  margin-top: 180px;
+}

@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    min-height: 109px;
+    margin-top: 92px;
+    margin-bottom: 92px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 93.055555%;
+    font-size: 18px;
+}

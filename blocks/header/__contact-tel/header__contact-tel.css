@@ -1,0 +1,8 @@
+.header__contact-tel {
+    border-bottom: 1px solid black;
+    text-decoration: none;
+}
+
+.header__contact-tel:hover {
+    opacity: 0.7;
+}

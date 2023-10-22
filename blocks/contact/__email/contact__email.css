@@ -1,0 +1,8 @@
+.contact__email {
+    border-bottom: 1px solid black;
+    text-decoration: none;
+}
+
+.contact__email:hover {
+    opacity: 0.7;
+}

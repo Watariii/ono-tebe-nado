@@ -1,0 +1,12 @@
+.card-link {
+  width: 430px;
+  min-height: 450px;
+  text-decoration: none;
+  transition: opacity .4s ease-out .1s;
+}
+
+.card-link:hover {
+  opacity: 0.8;
+}
+
+
